@@ -11,19 +11,19 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://fanqiezhuan.com/download/ipa?fileName=idioma1.ipa</string>  
+                    <string>http://fanqiezhuan.com/download/ipa?fileName=shenlunjinxuan101.ipa</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.freedom.idioma</string>  
+                <string>com.dupeifu.shenlunjinxuan</string>  
                 <key>bundle-version</key>  
-                <string>1.0.0</string>  
+                <string>1.0.1</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>测试APP免Appstore安装项目</string>  
+                <string>申论精选集</string>  
             </dict>  
         </dict>  
     </array>  
